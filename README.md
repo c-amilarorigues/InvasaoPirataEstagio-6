@@ -1,3 +1,3 @@
-# PiratesInvasionStage-6
+# InvasaoPirataEstagio-6
 
-adding animations
+adicionando animações
